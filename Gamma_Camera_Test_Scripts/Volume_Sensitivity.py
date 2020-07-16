@@ -17,9 +17,7 @@ from   matplotlib.widgets import Slider
 
 
 #Volume of the phantom used is 6.035 L
-phantomVolume = 7.500
-
-
+phantomVolume = 6.035
 
 
 def binaryMask(Image, threshold):
